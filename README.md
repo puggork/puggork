@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🖥Bachelor of Computational Linguistics (Saint-Petersburg State University)
+- Currently pursuing a Master's Degree in Language and Communication Technology (University of Malta --> University of Groningen)
+- Erasmus Mundus scholarship recipient
